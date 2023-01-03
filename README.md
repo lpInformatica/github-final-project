@@ -1,5 +1,5 @@
 # github-final-project
-Coursera IBM Full Stack Software Developer Final Project Repository
+# Coursera IBM Full Stack Software Developer Final Project Repository
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
